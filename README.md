@@ -1,6 +1,5 @@
-# Who Am I?
 
-My name is Ihantsa 🙂,  I'm a computer science student 💻🎒,
+Hello world🙂,  I'm a computer science student 💻🎒,
 
 I've specialised in mobile development 📱❤️📱.
 
